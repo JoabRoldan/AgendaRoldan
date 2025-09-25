@@ -1,0 +1,19 @@
+body {
+    background-image: url('../img/fondo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: Arial, sans-serif;
+}
+.card {
+    background-color: rgba(185, 233, 188, 0.9);
+    border-radius: 25px;
+}
+.text-center{
+    background-color: rgb(12, 223, 159);
+}
+h1.text-center{
+    color: rgb(204, 8, 230);
+    
+}
