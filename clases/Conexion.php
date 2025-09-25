@@ -2,7 +2,7 @@
     class Conexion{
         public function conectar(){
             $host="localhost";
-            $usuario="Backend";
+            $usuario="backend";
             $password="backend2025";
             $base="joab_agenda";
             $conexion=mysqli_connect(
