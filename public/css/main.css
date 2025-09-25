@@ -1,5 +1,5 @@
 body {
-    background-image: url('../img/fondo.jpg');
+    background-image: url('../img/kali-red-sticker.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -7,13 +7,13 @@ body {
     font-family: Arial, sans-serif;
 }
 .card {
-    background-color: rgba(185, 233, 188, 0.9);
+    background-color: rgba(228, 77, 17, 0.9);
     border-radius: 25px;
 }
 .text-center{
-    background-color: rgb(12, 223, 159);
+    background-color: rgb(36, 81, 163);
 }
 h1.text-center{
-    color: rgb(204, 8, 230);
+    color: rgb(17, 201, 146);
     
 }
